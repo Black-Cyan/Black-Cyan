@@ -3,7 +3,7 @@
 #### 目前正在学习  
 > Gradle  
 > Kotlin  
-> Android 开发
+> Android 开发  
 > Minecraft MOD 开发  
 > Linux  
 > PCB设计  
