@@ -2,9 +2,10 @@
 ~~我是一个小白程序员~~  
 #### 目前正在学习  
 > Gradle  
-> Kotlin  
+> Kotlin
+> C++  
 > Android 开发  
-> Minecraft MOD 开发  
+> Minecraft Fabric MOD 开发  
 > Linux  
 > PCB设计  
 #### 计划学习
