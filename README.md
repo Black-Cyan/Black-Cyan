@@ -23,4 +23,7 @@
 > Android 开发 (基于 Jetpack Compose)  
 > python-opencv
 ### 我的爱发电网址：https://afdian.com/a/blackcyan
+### 我的赞赏码
+<img src="https://github.com/Black-Cyan/Black-Cyan/blob/main/%E8%B5%9E%E8%B5%8F%E7%A0%81.png" width="200" height="200" alt="赞赏码">
+
 ### 请多多指教！
