@@ -13,23 +13,19 @@
 
 ## 📚 目前正在学习
 
-```
-🎮 Minecraft Fabric MOD 开发
-🐧 Linux
-💚 Vue
-🚀 Ktor
-💛 JavaScript
-🍃 SpringBoot
-🌶️ Flask
-```
+- 🎮 Minecraft Fabric MOD 开发
+- 🐧 Linux
+- 💚 Vue
+- 🚀 Ktor
+- 💛 JavaScript
+- 🍃 SpringBoot
+- 🌶️ Flask
 
 ## 🎯 计划学习
 
-```
-🍎 Swift
-📱 iOS 开发
-🔷 Dlang
-```
+- 🍎 Swift
+- 📱 iOS 开发
+- 🔷 Dlang
 
 ## 💪 熟练使用
 
