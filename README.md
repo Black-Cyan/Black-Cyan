@@ -9,7 +9,7 @@
 
 ---
 
-[![BlackCyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Black-Cyan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BlackCyan's GitHub stats](https://tools.blackcyan.top/stats/api?username=Black-Cyan&show_icons=true&theme=radical)](https://github.com/Black-Cyan/github-readme-stats)
 
 </div>
 
