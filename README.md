@@ -9,7 +9,7 @@
 
 ---
 
-[![BlackCyan's GitHub stats](https://tools.blackcyan.top/stats/api?username=Black-Cyan&show_icons=true&theme=radical)](https://github.com/Black-Cyan/github-readme-stats)
+[![BlackCyan's GitHub stats]([https://tools.blackcyan.top/stats/api?username=Black-Cyan&show_icons=true&theme=radical](https://tools.blackcyan.top/stats/api?username=Black-Cyan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff&line_height=28&border_radius=12&include_all_commits=true&custom_title=%E2%9A%A1%20BlackCyan%20Dev%20Stats))](https://github.com/Black-Cyan/github-readme-stats)
 
 </div>
 
