@@ -1,67 +1,65 @@
-<div align="center">
+<div align="center">Black-Cyan
 
-# 👋 你好哇，我是墨青 (Black-Cyan)
+Software Engineering Student · Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/Black-Cyan?style=social)](https://github.com/Black-Cyan)
-[![Profile Views](https://komarev.com/ghpvc/?username=Black-Cyan&color=brightgreen)](https://github.com/Black-Cyan)
+""GitHub followers" (https://img.shields.io/github/followers/Black-Cyan?style=social)" (https://github.com/Black-Cyan)
+""Profile Views" (https://komarev.com/ghpvc/?username=Black-Cyan&color=brightgreen)" (https://komarev.com/ghpvc/?username=Black-Cyan)
 
-~~我是一个小白程序员~~
+</div>---
 
----
+About
 
-[![BlackCyan's GitHub stats](https://tools.blackcyan.top/stats/api?username=Black-Cyan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff&line_height=28&border_radius=12&include_all_commits=true&custom_title=%E2%9A%A1%20BlackCyan%20Dev%20Stats)](https://github.com/Black-Cyan/github-readme-stats)
+I am a software engineering student interested in software development, Linux, and open-source projects.
 
-</div>
+I mainly work with C/C++, Kotlin, Java, Python, and web technologies. I enjoy building practical software and exploring different approaches to software development.
 
-## 📚 目前正在学习
+Currently, I am focusing on improving my fundamentals and developing more complete projects.
 
-- 🎮 Minecraft Fabric MOD 开发
-- 🐧 Linux
-- 💚 Vue
-- 🚀 Ktor
-- 💛 JavaScript
-- 🍃 SpringBoot
-- 🌶️ Flask
+Currently Learning
 
-## 🎯 计划学习
+- Linux
+- C / C++
+- Kotlin
+- Android development
+- Web development
+- Backend development
 
-- 🍎 Swift
-- 📱 iOS 开发
-- 🔷 Dlang
+Exploring
 
-## 💪 熟练使用
+- Ktor
+- Spring Boot
+- Python / Django
+- Vue
+- Swift
+- iOS development
+
+Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
+</p>Development
 
-## 🛠️ 会的东西
+- Full-stack web development
+- Android development with Jetpack Compose
+- Desktop application development
+- Backend development
+- Linux development and system administration
+- Automation and tooling
 
-- 🌐 **Web 开发** - 前后端全栈开发
-- 📱 **Android 开发** - 基于 Jetpack Compose
-- 🎨 **python-opencv** - 计算机视觉处理
+GitHub Stats
 
----
+<div align="center">""BlackCyan's GitHub stats" (https://tools.blackcyan.top/stats/api?username=Black-Cyan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&ring_color=58a6ff&line_height=28&border_radius=12&include_all_commits=true&custom_title=Black-Cyan%20Dev%20Stats)" (https://github.com/Black-Cyan/github-readme-stats)
 
-<div align="center">
+</div>Support
 
-## 💖 支持我
+If you find my projects useful, you can support my work through Afdian.
 
-如果你喜欢我的项目，欢迎通过以下方式支持：
+"My Afdian" (https://afdian.com/a/blackcyan)
 
-### 🔗 [我的爱发电](https://afdian.com/a/blackcyan)
-
-### 赞赏码
-
-<img src="https://github.com/Black-Cyan/Black-Cyan/blob/main/%E8%B5%9E%E8%B5%8F%E7%A0%81.png" width="250" height="250" alt="赞赏码"/>
-
----
-
-### ✨ 请多多指教！✨
-
-</div>
+<div align="center"><img src="https://github.com/Black-Cyan/Black-Cyan/blob/main/%E8%B5%9E%E8%B5%8F%E7%A0%81.png" width="250" height="250" alt="赞赏码"/></div>
