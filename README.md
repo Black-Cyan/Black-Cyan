@@ -9,13 +9,13 @@ Software Engineering Student · Developer
 
 ---
 
-About
+## About
 
 Software engineering student interested in software development, Linux, and open-source projects.
 
 Currently focusing on programming fundamentals, software engineering, and building practical projects.
 
-Currently Learning
+## Currently Learning
 
 - C / C++
 - Kotlin
@@ -24,7 +24,7 @@ Currently Learning
 - Web development
 - Backend development
 
-Exploring
+## Exploring
 
 - Ktor
 - Spring Boot
@@ -33,7 +33,7 @@ Exploring
 - Swift
 - iOS development
 
-Tech Stack
+## Tech Stack
 
 <div align="center"><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -50,7 +50,7 @@ Tech Stack
 - Linux development and system administration
 - Automation and developer tooling
 
-GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -58,7 +58,7 @@ GitHub Stats
 
 </div>
 
-Support
+## Support
 
 If you find my projects useful, you can support my work through Afdian.
 
